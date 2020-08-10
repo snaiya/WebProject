@@ -1,6 +1,8 @@
 Online Gaming website.
 --------------------------
 
+ https://snaiya.github.io/WebProject/
+
 Aim  : The website consists of games out of which user can select anyone and play online. Right now we have included 2 games in the trending games section.
 
 The website contains :
